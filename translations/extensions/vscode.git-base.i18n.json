@@ -1,0 +1,29 @@
+{
+	"": [
+		"--------------------------------------------------------------------------------------------",
+		"Copyright (c) Tristan Gerritsen. All rights reserved.",
+		"Licensed under the MIT License. See License.txt in the project root for license information.",
+		"--------------------------------------------------------------------------------------------"
+	],
+	"version": "1.0.0",
+	"contents": {
+		"bundle": {
+			"Branch name": "Branchnaam",
+			"Choose a URL to clone from.": "Kies een URL om van te klonen.",
+			"No remote repositories found.": "Geen externe repositories gevonden.",
+			"Provide repository URL": "Geef de repository-URL op",
+			"Provide repository URL or pick a repository source.": "Geef de repository-URL op of kies een repositorybron.",
+			"Repository name": "Naam van repository",
+			"Repository name (type to search)": "Naam van repository (typen om te zoeken)",
+			"URL": "URL",
+			"recently opened": "recent geopend",
+			"remote sources": "externe bronnen",
+			"{0} Error: {1}": "{0} Fout: {1}"
+		},
+		"package": {
+			"command.api.getRemoteSources": "Externe bronnen ophalen",
+			"description": "Statische Git-bijdragen en -selectie.",
+			"displayName": "Git-basis"
+		}
+	}
+}

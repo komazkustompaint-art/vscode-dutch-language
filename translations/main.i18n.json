@@ -5503,7 +5503,7 @@
             "defaultHintAriaLabel": "Voer \"{0}\" uit om een taal te selecteren, voer \"{1}\" uit om een sjabloon te gebruiken om in te vullen, of voer \"{2}\" uit om een andere editor te openen en te beginnen. Begin met typen om het bericht te sluiten.",
             "disableEditorEmptyHint": "Lege editorhint uitschakelen",
             "disableHint": "Schakel \"{0}\" in de instellingen om deze hint uit te schakelen.",
-            "emptyHintText": "Druk op \"{0}\" om \"{1}\" te vragen iets te doen.",
+            "emptyHintText": "Druk op \"{0}\" om \"{1}\" te vragen iets te doen. ",
             "emptyHintTextDismiss": "Begin met typen om het bericht te sluiten.",
             "inlineChatHint": "[[Vraag \"{0}\" om iets te doen]], of begin met typen om de bewerking te annuleren.",
             "message": "[[Selecteer een taal]], of [[vul met sjabloon]], of [[open een andere editor]] om te beginnen.\r\nBegin met typen om te sluiten, of [[niet meer tonen]]."
@@ -6672,7 +6672,7 @@
             "uncaught errors": "Onafgehandelde fouten ({0})"
         },
         "vs/workbench/contrib/extensions/browser/extensionRecommendationNotificationService": {
-            "donotShowAgain": "Niet meer weergeven voor dit repository",
+            "donotShowAgain": "Niet meer weergeven voor deze repository",
             "donotShowAgainExtension": "Niet meer weergeven voor deze extensies",
             "donotShowAgainExtensionSingle": "Niet meer weergeven voor deze extensie",
             "exeRecommended": "U heeft {0} ge\u00efnstalleerd op uw systeem. Wilt u de aanbevolen {1} installeren?",
@@ -6687,7 +6687,7 @@
             "no": "Nee",
             "recommended": "Wilt u de aanbevolen {0} voor {1} installeren?",
             "show recommendations": "Aanbevelingen weergeven",
-            "this repository": "dit repository"
+            "this repository": "deze repository"
         },
         "vs/workbench/contrib/extensions/browser/extensions.contribution": {
             "InstallFromVSIX": "Uit VSIX installeren...",
@@ -9983,7 +9983,7 @@
             "scm.countBadge.all": "Toon het totaal van alle tellerbadges voor versiebeheerproviders.",
             "scm.countBadge.focused": "Toon de tellerbadge voor de geselecteerde versiebeheerprovider.",
             "scm.countBadge.off": "Schakel de versiebeheerbadge uit.",
-            "scm.defaultViewMode": "Beheert de standaard weergavemodus voor het repository van versiebeheer.",
+            "scm.defaultViewMode": "Beheert de standaard weergavemodus voor de repository van versiebeheer.",
             "scm.defaultViewMode.list": "Toon de repository wijzigingen als lijst.",
             "scm.defaultViewMode.tree": "Toon de repository wijzigingen als boomstructuur.",
             "scm.defaultViewSortKey": "Beheert de standaard sorteervolgorde van de versiebeheer-repositorywijzigingen wanneer deze als lijst worden weergegeven.",

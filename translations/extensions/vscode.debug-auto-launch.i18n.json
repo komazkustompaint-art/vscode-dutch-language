@@ -1,0 +1,36 @@
+{
+	"": [
+		"--------------------------------------------------------------------------------------------",
+		"Copyright (c) Tristan Gerritsen. All rights reserved.",
+		"Licensed under the MIT License. See License.txt in the project root for license information.",
+		"--------------------------------------------------------------------------------------------"
+	],
+	"version": "1.0.0",
+	"contents": {
+		"bundle": {
+			"Always": "Altijd",
+			"Auto Attach: Always": "Automatisch koppelen: altijd",
+			"Auto Attach: Disabled": "Automatisch koppelen: uitgeschakeld",
+			"Auto Attach: Smart": "Automatisch koppelen: slim",
+			"Auto Attach: With Flag": "Automatisch koppelen: met vlag",
+			"Auto attach is disabled and not shown in status bar": "Automatisch koppelen is uitgeschakeld en wordt niet weergegeven in de statusbalk.",
+			"Auto attach to every Node.js process launched in the terminal": "Hiermee wordt automatisch gekoppeld aan elk Node.js-proces dat in de terminal wordt gestart.",
+			"Auto attach when running scripts that aren't in a node_modules folder": "Hiermee wordt automatisch gekoppeld bij het uitvoeren van scripts die zich niet in een node_modules-map bevinden.",
+			"Automatically attach to node.js processes in debug mode": "Automatisch koppelen aan Node.js-processen in debugmodus",
+			"Debug Auto Attach": "Automatisch koppelen debuggen",
+			"Disabled": "Uitgeschakeld",
+			"Only With Flag": "Alleen met vlag",
+			"Only auto attach when the `--inspect` flag is given": "Hiermee wordt alleen automatisch gekoppeld wanneer de vlag \"--inspect\" is opgegeven.",
+			"Re-enable auto attach": "Automatisch koppelen opnieuw inschakelen",
+			"Smart": "Slim",
+			"Temporarily disable auto attach in this session": "Automatisch koppelen in deze sessie tijdelijk uitschakelen",
+			"Toggle auto attach in this workspace": "Automatisch koppelen in deze werkruimte aan- of uitzetten",
+			"Toggle auto attach on this machine": "Automatisch koppelen op deze computer aan- of uitzetten"
+		},
+		"package": {
+			"description": "Hulpprogramma voor de functie \"Automatisch koppelen\" wanneer Node-debuguitbreidingen niet actief zijn.",
+			"displayName": "Node-debugging – Automatisch koppelen",
+			"toggle.auto.attach": "Automatisch koppelen aan- of uitzetten"
+		}
+	}
+}
