@@ -46,6 +46,10 @@
 					{
 						"id": "vscode.git",
 						"path": "./translations/extensions/vscode.git.i18n.json"
+					},
+					{
+						"id": "rust-lang.rust-analyzer",
+						"path": "./translations/extensions/rust-lang.rust-analyzer.i18n.json"
 					}
 				]
 			}

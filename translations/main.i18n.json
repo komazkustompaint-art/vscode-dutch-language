@@ -7399,8 +7399,8 @@
             "moveFileBulkEdit": "'{0}' verplaatsen",
             "movingBulkEdit": "{0} bestanden worden verplaatst.",
             "movingFileBulkEdit": "'{0}' wordt verplaatst.",
-            "newFile": "Nieuw bestand...",
-            "newFolder": "Nieuwe map...",
+            "newFile": "Bestand aanmaken...",
+            "newFolder": "Map aanmaken...",
             "openFileInEmptyWorkspace": "Actief bestand openen in nieuwe lege werkruimte",
             "openFileInEmptyWorkspaceMetadata": "Opent het actieve bestand in een nieuw venster zonder geopende mappen.",
             "openFileToShowInNewWindow.unsupportedschema": "De actieve editor moet een openbare bron bevatten.",
@@ -7572,8 +7572,8 @@
         "vs/workbench/contrib/files/browser/views/explorerView": {
             "collapseExplorerFolders": "Vouw mappen in de Verkenner samen",
             "collapseExplorerFoldersMetadata": "Vouwt alle mappen in de Verkenner samen.",
-            "createNewFile": "Nieuw bestand...",
-            "createNewFolder": "Nieuwe map...",
+            "createNewFile": "Bestand aanmaken...",
+            "createNewFolder": "Map aanmaken...",
             "explorerSection": "Verkennerssectie: {0}",
             "refreshExplorer": "Verkenner vernieuwen",
             "refreshExplorerMetadata": "Forceert een vernieuwing van de Verkenner."
@@ -12301,7 +12301,7 @@
             "gettingStarted.menuBar.description.interpolated": "Om ruimte te maken voor uw code, is de volledige menubalk beschikbaar in het vervolgkeuzemenu. Schakel de weergave om de toegang te versnellen.\r\n{0}",
             "gettingStarted.menuBar.title": "Precies de juiste hoeveelheid gebruikersinterface",
             "gettingStarted.newFile.description": "Open een nieuw, onbenoemd tekstbestand, een notitieblok of een aangepaste editor.",
-            "gettingStarted.newFile.title": "Nieuw bestand...",
+            "gettingStarted.newFile.title": "Bestand aanmaken...",
             "gettingStarted.notebook.title": "Notebooks aanpassen",
             "gettingStarted.notebookProfile.description": "Pas notebooks zo aan dat ze aanvoelen zoals u dat wilt.",
             "gettingStarted.notebookProfile.title": "Kies het lay-out voor uw notebooks.",
@@ -12416,9 +12416,9 @@
             "miNewFile2": "Tekstbestand",
             "miNewFileWithName": "Nieuw bestand aanmaken ({0})",
             "newFilePlaceholder": "Selecteer bestandstype of voer bestandsnaam in...",
-            "newFileTitle": "Nieuw bestand...",
+            "newFileTitle": "Bestand aanmaken...",
             "notebook": "Notebook",
-            "welcome.newFile": "Nieuw bestand..."
+            "welcome.newFile": "Bestand aanmaken..."
         },
         "vs/workbench/contrib/welcomeViews/common/viewsWelcomeContribution": {
             "ViewsWelcomeExtensionPoint.proposedAPI": "De 'viewsWelcome'-bijdrage in '{0}' vereist 'enabledApiProposals: [",
@@ -12601,7 +12601,7 @@
             "dup1": "De opdracht \"{0}\" is al geregistreerd door {1} ({2})",
             "dupe.command": "Het menu-item verwijst naar dezelfde opdracht als de standaard- en alternatieve opdracht.",
             "editorLineNumberContext": "Het contextmenu voor het regelnummer in de editor",
-            "file.newFile": "De snelle keuze \"Nieuw bestand...\", weergegeven op de welkomstpagina en in het 'Bestand'-menu.",
+            "file.newFile": "De snelle keuze \"Bestand aanmaken...\", weergegeven op de welkomstpagina en in het 'Bestand'-menu.",
             "inlineCompletions.actions": "De acties die worden weergegeven wanneer de muisaanwijzer op een inline-aanvulling wordt verplaatst.",
             "inlineEdit.actions": "De acties die worden weergegeven wanneer de muisaanwijzer op een inline-bewerking wordt verplaatst",
             "interactive.cell.title": "Het bijgedragen interactieve cel-titelmenu",
