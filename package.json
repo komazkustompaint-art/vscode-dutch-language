@@ -2,7 +2,7 @@
 	"name": "babbelaar-vscode-language-pack-nl",
 	"displayName": "Nederlands Taalpakket",
 	"description": "Nederlands Taalpakket voor Visual Studio Code / Language pack extension for the Dutch Language in Visual Studio Code. Door het Babbelaar-project / By the Babbelaar project",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "babbelaar",
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
     "homepage": "https://github.com/babbelaar/vscode-dutch-language",
 	"license": "SEE MIT LICENSE IN LICENSE.md",
 	"engines": {
-		"vscode": "^1.93.0"
+		"vscode": "^1.0.0"
 	},
 	"icon": "languagepack.png",
 	"categories": [
