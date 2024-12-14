@@ -901,8 +901,8 @@
             "smartSelect.selectToBracketDescription": "Selecteer tekst en plaats haakjes of accolades"
         },
         "vs/editor/contrib/caretOperations/browser/caretOperations": {
-            "caret.moveLeft": "Ausgew\u00e4hlten Text nach links verschieben",
-            "caret.moveRight": "Ausgew\u00e4hlten Text nach rechts verschieben"
+            "caret.moveLeft": "Verplaats geselecteerde tekst naar links",
+            "caret.moveRight": "Verplaats geselecteerde tekst naar rechts"
         },
         "vs/editor/contrib/caretOperations/browser/transpose": {
             "transposeLetters.label": "Buchstaben austauschen"
@@ -1339,26 +1339,26 @@
             "accept": "Accepteren",
             "acceptLine": "Accepteer regel",
             "acceptWord": "Accepteer woord",
-            "action.inlineSuggest.accept": "Inline suggestie accepteren",
-            "action.inlineSuggest.acceptNextLine": "Volgende regel inline suggestie accepteren",
-            "action.inlineSuggest.acceptNextWord": "Volgend woord inline suggestie accepteren",
+            "action.inlineSuggest.accept": "Inlinesuggestie accepteren",
+            "action.inlineSuggest.acceptNextLine": "Volgende regel inlinesuggestie accepteren",
+            "action.inlineSuggest.acceptNextWord": "Volgend woord inlinesuggestie accepteren",
             "action.inlineSuggest.alwaysShowToolbar": "Toon werkbalk altijd",
-            "action.inlineSuggest.hide": "Inline suggestie verbergen",
-            "action.inlineSuggest.showNext": "Toon volgende inline suggestie",
-            "action.inlineSuggest.showPrevious": "Toon vorige inline suggestie",
-            "action.inlineSuggest.trigger": "Inline suggestie activeren"
+            "action.inlineSuggest.hide": "Inlinesuggestie verbergen",
+            "action.inlineSuggest.showNext": "Toon volgende inlinesuggestie",
+            "action.inlineSuggest.showPrevious": "Toon vorige inlinesuggestie",
+            "action.inlineSuggest.trigger": "Inlinesuggestie activeren"
         },
         "vs/editor/contrib/inlineCompletions/browser/controller/inlineCompletionContextKeys": {
-            "inlineSuggestionHasIndentation": "Geeft aan of de inline suggestie met inspringing begint.",
-            "inlineSuggestionHasIndentationLessThanTabSize": "Geeft aan of de inline suggestie met minder inspringing dan de tabgrootte begint.",
-            "inlineSuggestionVisible": "Geeft aan of een inline suggestie zichtbaar is.",
+            "inlineSuggestionHasIndentation": "Geeft aan of de inlinesuggestie met inspringing begint.",
+            "inlineSuggestionHasIndentationLessThanTabSize": "Geeft aan of de inlinesuggestie met minder inspringing dan de tabgrootte begint.",
+            "inlineSuggestionVisible": "Geeft aan of een inlinesuggestie zichtbaar is.",
             "suppressSuggestions": "Geeft aan of suggesties voor de huidige suggestie onderdrukt moeten worden."
         },
         "vs/editor/contrib/inlineCompletions/browser/controller/inlineCompletionsController": {
             "showAccessibleViewHint": "Bekijk dit in de toegankelijke weergave ({0})."
         },
         "vs/editor/contrib/inlineCompletions/browser/hintsWidget/hoverParticipant": {
-            "hoverAccessibilityStatusBar": "Er zijn inline voltooien aanwezig.",
+            "hoverAccessibilityStatusBar": "Er zijn inlinevoltooiingen aanwezig.",
             "inlineSuggestionFollows": "Suggestie:"
         },
         "vs/editor/contrib/inlineCompletions/browser/hintsWidget/inlineCompletionsHintsWidget": {
@@ -1369,7 +1369,7 @@
             "previous": "Vorige"
         },
         "vs/editor/contrib/inlineEdit/browser/hoverParticipant": {
-            "hoverAccessibilityInlineEdits": "Er zijn inline bewerkingen aanwezig."
+            "hoverAccessibilityInlineEdits": "Er zijn inlinevoltooiingen aanwezig."
         },
         "vs/editor/contrib/inlineEdits/browser/commands": {
             "action.inlineEdits.accept": "Inline-bewerking accepteren",
@@ -1802,7 +1802,7 @@
             "accessibilitySignals.lineHasBreakpoint.name": "Onderbrekingspunt in regel",
             "accessibilitySignals.lineHasError.name": "Fout in regel",
             "accessibilitySignals.lineHasFoldedArea.name": "Opgevouwen gebied in regel",
-            "accessibilitySignals.lineHasInlineSuggestion.name": "Inline suggestie in regel",
+            "accessibilitySignals.lineHasInlineSuggestion.name": "Inlinesuggestie in regel",
             "accessibilitySignals.lineHasWarning.name": "Waarschuwing in regel",
             "accessibilitySignals.noInlayHints": "Geen inlay-hints in regel",
             "accessibilitySignals.notebookCellCompleted": "Notebook-cel voltooid",
@@ -2486,12 +2486,12 @@
             "editorInactiveSelection": "De kleur van de selectie in een inactieve editor. De kleur mag niet dekkend zijn omdat dit anders de onderliggende decoraties verbergt.",
             "editorInfo.background": "Achtergrondkleur voor informatietekst in de editor. De kleur mag niet dekkend zijn omdat dit anders de onderliggende decoraties verbergt.",
             "editorInfo.foreground": "Voorgrondkleur van informatieonderstrepingen in de editor.",
-            "editorInlayHintBackground": "Achtergrondkleur voor inline hints.",
-            "editorInlayHintBackgroundParameter": "Achtergrondkleur van inline hints voor parameters.",
-            "editorInlayHintBackgroundTypes": "Achtergrondkleur van inline hints voor typen.",
-            "editorInlayHintForeground": "Voorgrondkleur voor inline hints.",
-            "editorInlayHintForegroundParameter": "Voorgrondkleur van inline hints voor parameters.",
-            "editorInlayHintForegroundTypes": "Voorgrondkleur van inline hints voor typen.",
+            "editorInlayHintBackground": "Achtergrondkleur voor inlinehints.",
+            "editorInlayHintBackgroundParameter": "Achtergrondkleur van inlinehints voor parameters.",
+            "editorInlayHintBackgroundTypes": "Achtergrondkleur van inlinehints voor typen.",
+            "editorInlayHintForeground": "Voorgrondkleur voor inlinehints.",
+            "editorInlayHintForegroundParameter": "Voorgrondkleur van inlinehints voor parameters.",
+            "editorInlayHintForegroundTypes": "Voorgrondkleur van inlinehints voor typen.",
             "editorLightBulbAiForeground": "De kleur die wordt gebruikt voor het AI-symbool van de gloeilamp.",
             "editorLightBulbAutoFixForeground": "De kleur die wordt gebruikt voor het actiepictogram \"Automatische gloeilampcorrectie\".",
             "editorLightBulbForeground": "De kleur die wordt gebruikt voor het actiepictogram \"Gloeilamp\".",
@@ -3422,7 +3422,7 @@
             "miAbout": "&&Info",
             "miConfirmClose": "Voor het sluiten bevestigen",
             "miMore": "&&Meer...",
-            "miNewWindow": "Nieuw &&Venster",
+            "miNewWindow": "Nieuw &&venster",
             "miOpenRecent": "Onlangs gebruikte bestanden openen",
             "miToggleFullScreen": "&&Volledig scherm",
             "newWindow": "Nieuw venster",
@@ -3459,7 +3459,7 @@
             "workspaces": "Werkruimten"
         },
         "vs/workbench/browser/actions/workspaceCommands": {
-            "add": "H&&inzuf\u00fcgen",
+            "add": "T&&oevoegen",
             "addFolderToWorkspace": "Map toevoegen aan werkruimte...",
             "addFolderToWorkspaceTitle": "Map toevoegen aan werkruimte",
             "workspaceFolderPickerPlaceholder": "Selecteer werkruimtemap"
@@ -3611,7 +3611,7 @@
             "compare.nextChange": "Naar de volgende wijziging gaan",
             "compare.previousChange": "Naar de vorige wijziging gaan",
             "swapDiffSides": "Linker- en rechterkant van de editor verwisselen",
-            "toggleInlineView": "Inline weergave wisselen"
+            "toggleInlineView": "Inlineweergave wisselen"
         },
         "vs/workbench/browser/parts/editor/editor.contribution": {
             "activeGroupEditorsByMostRecentlyUsedQuickAccess": "Editoren in de actieve groep weergeven, gesorteerd op meest recent gebruik",
@@ -4988,7 +4988,7 @@
             "editor.action.accessibilityHelpConfigureUnassignedKeybindings": "Toegankelijkheidshulp configureren voor niet-toegewezen toetscombinaties",
             "editor.action.accessibilityHelpOpenHelpLink": "Open hulpkoppeling voor toegankelijkheid",
             "editor.action.accessibleView": "Open toegankelijk weergave",
-            "editor.action.accessibleViewAcceptInlineCompletionAction": "Inlinevervollst\u00e4ndigung accepteren",
+            "editor.action.accessibleViewAcceptInlineCompletionAction": "Accepteer inlinevoltooiing",
             "editor.action.accessibleViewDisableHint": "Hint voor toegankelijk weergave",
             "editor.action.accessibleViewGoToSymbol": "Wissel naar symbool in toegankelijk weergave",
             "editor.action.accessibleViewNext": "Volgend element in toegankelijk weergave weergeven",
@@ -5032,7 +5032,7 @@
             "audioCues.lineHasBreakpoint": "Speelt een geluid af wanneer de actieve regel een breekpunt heeft.",
             "audioCues.lineHasError": "Speelt een geluid af wanneer de actieve regel een fout heeft.",
             "audioCues.lineHasFoldedArea": "Speelt een geluid af wanneer de actieve regel een gevouwen gebied heeft dat kan worden uitgevouwen.",
-            "audioCues.lineHasInlineSuggestion": "Speelt een geluid af wanneer de actieve regel een inline suggestie heeft.",
+            "audioCues.lineHasInlineSuggestion": "Speelt een geluid af wanneer de actieve regel een inlinesuggestie heeft.",
             "audioCues.lineHasWarning": "Speelt een geluid af wanneer de actieve regel een waarschuwing heeft.",
             "audioCues.noInlayHints": "Geeft een geluid af wanneer wordt geprobeerd een regel met inlay-hints te lezen en er geen inlay-hints zijn.",
             "audioCues.notebookCellCompleted": "Speelt een geluid af wanneer de uitvoering van een notebookcel succesvol is voltooid.",
