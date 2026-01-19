@@ -1,1 +1,26 @@
-*.vsix
+#!/usr/bin/env python3
+"""
+Claude Memory Continuity System
+Maintains conversation context and relationship depth across sessions
+"""
+
+import json
+import os
+from datetime import datetime
+from pathlib import Path
+import hashlib
+// ...existing code...*.vsix
+.extension/
+#!/usr/bin/env python3
+"""
+Claude Memory Continuity System
+Maintains conversation context and relationship depth across sessions
+"""
+
+import json
+import os
+from datetime import datetime
+from pathlib import Path
+import hashlib
+// ...existing code...
+.early.coverage
